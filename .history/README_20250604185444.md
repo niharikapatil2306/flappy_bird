@@ -1,0 +1,64 @@
+Flappy Bird Clone (Phaser 3)
+This is a simple clone of the classic Flappy Bird game, built using Phaser 3, a fast, robust, and versatile 2D game framework for HTML5 games. The objective of the game is to keep the bird flying by tapping the up arrow key while avoiding obstacles and landing on the ground.
+
+Table of Contents
+Installation
+
+How to Play
+
+Game Features
+
+Technologies Used
+
+License
+
+Installation
+To run the game locally:
+
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/flappy-bird-clone.git
+Navigate into the project directory:
+
+bash
+Copy
+Edit
+cd flappy-bird-clone
+Open index.html in your browser to play the game.
+
+How to Play
+Start the Game: Press the Space bar to begin the game.
+
+Control the Bird: Press the Up arrow key to make the bird fly upwards.
+
+Objective: Avoid colliding with the columns or the ground. Keep the bird flying and try to get as far as you can.
+
+Winning Condition: Reach the right edge of the screen to win the game.
+
+Losing Condition: Collide with a column or hit the ground.
+
+Game Features
+Responsive Design: The game works well on different screen sizes.
+
+Collision Detection: The bird will bounce off the ground and collide with columns.
+
+Gravity: The bird has a gravity effect, which makes it fall over time.
+
+Instructions: On game start, a set of instructions is displayed to help the player.
+
+Win/Lose Messages: The game will display messages when the player wins or loses.
+
+Technologies Used
+Phaser 3: A powerful 2D game framework used to create this game.
+
+JavaScript: The game's logic is written in JavaScript.
+
+HTML5: Used for the structure of the webpage.
+
+CSS: Used for the basic styling of the game (though minimal in this case).
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
