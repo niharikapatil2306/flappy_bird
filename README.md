@@ -23,7 +23,7 @@ To run the game locally:
 2. Navigate into the project directory:
 
     ```bash
-    cd flappy-bird-clone
+    cd flappy-bird
     ```
 
 3. Open `index.html` in your browser to play the game.
